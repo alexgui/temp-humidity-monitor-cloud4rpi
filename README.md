@@ -21,7 +21,7 @@ At the time of writing, I have the ITC-308 set to target 50 degF, and the coolin
 If you want to see some photos of the cellar in operation, check out my [Instagram highlights](https://www.instagram.com/stories/highlights/17899675735770426/) (best viewed in the app).
 
 # Getting Started
-1. Download the repository ```git pull https://github.com/alexgui/temp-humidity-monitor-cloud4rpi.git```
+1. Download the repo: ```git pull https://github.com/alexgui/temp-humidity-monitor-cloud4rpi.git```
 2. Make an account at [Cloud4Rpi](cloud4rpi.io). At the time of writing, a free account gets 5,000 packets (data transmission that can include multiple parameters) a month.
 3. Create a new device at Cloud4RPi
 4. Populate the ```DEVICE_TOKEN``` parameter in ```temp_hum_monitor_cloud4rpi.py```
