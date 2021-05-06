@@ -12,9 +12,9 @@ I ended up using a BME280 to measure the temperature and humidity inside the cel
 
 The Cloud4Rpi dashboard is set up to monitor cellar temperature, cellar humidity, and ambient temperature, as well as issue email alerts for over/under temperature instances:
 
-<img width="894" alt="Screen Shot 2021-05-06 at 12 57 56 PM" src="https://user-images.githubusercontent.com/10524839/117358552-26c35000-ae6b-11eb-87e3-1cfd221600e3.png">
-<img width="1147" alt="Screen Shot 2021-05-06 at 12 58 14 PM" src="https://user-images.githubusercontent.com/10524839/117358563-2925aa00-ae6b-11eb-886c-cac15648acfe.png">
-<img width="1143" alt="Screen Shot 2021-05-06 at 12 58 22 PM" src="https://user-images.githubusercontent.com/10524839/117358570-2aef6d80-ae6b-11eb-9cfa-075b1fdce9b0.png">
+<img width="887" alt="Screen Shot 2021-05-06 at 1 07 03 PM" src="https://user-images.githubusercontent.com/10524839/117359323-1364b480-ae6c-11eb-8b5e-255101e65b4c.png">
+<img width="1153" alt="Screen Shot 2021-05-06 at 1 07 17 PM" src="https://user-images.githubusercontent.com/10524839/117359331-13fd4b00-ae6c-11eb-81cb-caa3a3f591b6.png">
+<img width="1154" alt="Screen Shot 2021-05-06 at 1 07 29 PM" src="https://user-images.githubusercontent.com/10524839/117359336-15c70e80-ae6c-11eb-84f5-8e4d4c600520.png">
 
 At the time of writing, I have the ITC-308 set to target 50 degF, and the cooling/heating functions to turn on at +/- 3 degF from the target (i.e. the operating window is 47-53 degF. This seems to be a good balance between cooling/heating cycles.
 
